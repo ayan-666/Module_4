@@ -38,3 +38,27 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-exp{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("../images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg,rgb(165, 86, 86),rgb(233, 75, 75));
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 8px solid;
+    border-image: linear-gradient(45deg,rgb(165, 86, 86),rgb(233, 75, 75));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
