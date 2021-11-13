@@ -1,0 +1,10 @@
+body{
+    font-family: 'Yuji Syuku', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: orange;
+}
